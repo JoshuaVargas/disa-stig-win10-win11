@@ -1,1 +1,1 @@
-# Implementing DISA STIGs on Windows 10/Windows 11 Machines
+# Implementing DISA STIGs on Windows 10/11 Machines
